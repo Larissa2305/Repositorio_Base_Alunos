@@ -1,0 +1,6 @@
+Maçã
+Banana
+Leite
+Pão
+UvaEstou criando esse arquivo de texto em Python!
+Agora estou aprendendo a manipular arquivos!
